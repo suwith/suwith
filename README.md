@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuwith&count_bg=%2390E4E9&title_bg=%23505970&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwith&layout=compact)](https://github.com/suwtih)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwith&langs_count=10&layout=compact)]()
 ![Suwith's GitHub stats](https://github-readme-stats.vercel.app/api?username=suwith&show_icons=true&theme=merko)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooy357)](https://solved.ac/sooy357/)
 <!--
