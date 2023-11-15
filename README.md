@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooy357)](https://solved.ac/sooy357/)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suwith&langs_count=10&layout=compact)]() -->
-[![suwith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suwith)]()
+<!-- [![suwith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=suwith)]() -->
 
 <!--
 # 💪Skills
