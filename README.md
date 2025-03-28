@@ -3,13 +3,13 @@
 
 <img src="https://github.com/user-attachments/assets/8e78568f-c32e-4033-bbc9-a9b992ce48d9" width="400"/>
 
-### ✨ A Frontend Developer: <strong> Learns deeply, Builds better, and Grows together. ✨</strong>
+### Learns deeply, Builds better, and Grows together 🌵</strong>
 
 <br/><br/>
 
-## 🙋‍♀️ About Me
-<p>디자인부터 기획, 개발까지 아우르는 <strong>풀사이클형 웹 개발자</strong> </p>
-<p>React · TypeScript 기반의 모던 프론트엔드 기술에 관심이 많으며, 팀과 함께 성장하는 개발 문화를 추구합니다.</p>
+## 🙋‍♀️ About Me  
+<p>기획부터 개발까지 주도적으로 참여하며 문제 해결과 협업에 진심인 개발자입니다.</p>  
+<p>지속 가능한 성장과 좋은 팀워크를 중요하게 생각합니다.</p>
 
 <br/><br/>
 
@@ -52,7 +52,7 @@
 
 🥇 **2023 과학기술정보통신부 장관상**   코드클럽 SW 교육기부단 우수 동아리 선정
 
-🥉 **2023 KOPIS 빅데이터 공모전**   서비스 개발 부문 3등 (돋움상)
+🥉 **2023 KOPIS 빅데이터 공모전**   서비스 개발 부문 3등 돋움상
 
 🥉 **2024 COKOTHON 해커톤** 국민대 KOSS X 숙명여대 연합 해커톤 3등 우수상
 
