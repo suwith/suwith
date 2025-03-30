@@ -34,10 +34,10 @@
 | 기간 | 프로젝트 / 설명 |
 |------|------------------|
 | 2022.06 ~ 2022.09 | 제로웨이스터들을 위한 웹 서비스 ’[Bzero](https://github.com/hayounSong/Bzero)’ Frontend 개발 |
-| 2022.09 ~ 2022.12 | MBTI 기반 영화 추천 안드로이드 앱 서비스 '[MVTI](https://github.com/gyuwonsong/KMU-MVTI.git)' 디자인 및 Frontend 개발 |
-| 2023.05 ~ 2023.06 | 2023년도 상반기 코드클럽 찾아가는 SW 교육기부단 '[코박코박](https://github.com/gyuwonsong/CodeClub-CobakCobak.git)' 부팀장 - 개운초 |
-| 2023.07 ~ 2023.09 | 공연예술 분야 통합 정보 제공 안드로이드 앱 서비스 '[ArtRoad](https://github.com/gyuwonsong/ArtRoad.git)' 디자인 및 Frontend 개발 |
-| 2023.08 ~ 2023.11 | 2023년도 '[고교교육 기여대학 지원사업](https://github.com/gyuwonsong/KMU-HighSchoolSupportProject.git)'  - 재현고, 대성고 |
+| 2022.09 ~ 2022.12 | MBTI 기반 영화 추천 안드로이드 앱 서비스 '[MVTI](https://github.com/suwith/KMU-MVTI.git)' 디자인 및 Frontend 개발 |
+| 2023.05 ~ 2023.06 | 2023년도 상반기 코드클럽 찾아가는 SW 교육기부단 '[코박코박](https://github.com/suwith/CodeClub-CobakCobak.git)' 부팀장 - 개운초 |
+| 2023.07 ~ 2023.09 | 공연예술 분야 통합 정보 제공 안드로이드 앱 서비스 '[ArtRoad](https://github.com/suwith/ArtRoad.git)' 디자인 및 Frontend 개발 |
+| 2023.08 ~ 2023.11 | 2023년도 '[고교교육 기여대학 지원사업](https://github.com/suwith/KMU-HighSchoolSupportProject.git)'  - 재현고, 대성고 |
 | 2023.11 ~ 2024.02 | 2023년도 동계 재능봉사 캠프 ‘[코딩브리즈](https://www.notion.so/2025-03-27-1c3599a329d5804e910efae43b7f9529?pvs=21)’ 팀장 - 성원고 |
 | 2024.03 ~ 2024.06 | 자립준비청년 지원 웹 서비스 '[Cooing](https://github.com/cooing-kmu)' 디자인 및 Frontend 개발 |
 | 2024.09 ~ | 국민대학교 북악리그 전용 웹사이트 '[승부각](https://github.com/s-bukak)' 디자인 및 Frontend 개발 |
