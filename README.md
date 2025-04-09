@@ -86,8 +86,14 @@
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suwith@kookmin.ac.kr)](mailto:suwith@kookmin.ac.kr)
 
-
-
+<br/><br/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suwith&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/suwith"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuwith&count_bg=%2390E4E9&title_bg=%23505970&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -118,8 +124,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-
- 
 
 -->
 
