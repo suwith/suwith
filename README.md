@@ -3,7 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/8e78568f-c32e-4033-bbc9-a9b992ce48d9" width="400"/>
 
-### Learns deeply, Builds better, and Grows together 🌵</strong>
+### Learn deeply, Build better, and Grow together 🌵</strong>
 
 <br/><br/>
 
